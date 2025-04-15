@@ -2,6 +2,7 @@
 
 The dataset originates from beam test experiments using a prototype highly granular calorimeter (SDHCAL) designed for capturing and measuring charged and neutral hadrons produced by collisions at particle colliders. The data constains a mixed beam containing muons, pions, and electrons. For hadrons, the resulting cascade—the hadronic shower—is recorded in detail, providing information about the spatial and longitudinal development of the shower. Our main purpose is to model the development of hadronic showers. 
 
+![image](shower_progression.gif)
 
 ## Detector Geometry and Segmentation
 * Layered Structure: The detector is segmented into 50 layers along the depth, with each layer acting as an independent sampling plane. The progression of the shower through these layers provides insight into the longitudinal development of energy deposition.
